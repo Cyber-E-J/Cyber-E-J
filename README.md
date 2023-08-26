@@ -1,5 +1,5 @@
 
-Please see my website:
+See my website:
 
 [cyber-e-j.github.io](https://cyber-e-j.github.io)
 
