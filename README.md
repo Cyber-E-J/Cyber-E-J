@@ -5,4 +5,4 @@ See my website:
 
 
 ![亮色](https://raw.githubusercontent.com/Cyber-E-J/Cyber-E-J/output/github-contribution-grid-snake.svg)
-![暗色](https://raw.githubusercontent.com/Cyber-E-J/Cyber-E-J/output/github-contribution-grid-snake-dark.svg)
+<!-- ![暗色](https://raw.githubusercontent.com/Cyber-E-J/Cyber-E-J/output/github-contribution-grid-snake-dark.svg) -->
