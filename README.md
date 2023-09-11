@@ -1,3 +1,5 @@
+![hanya](./assets/hanya.JPG)
+
 ## About
 
 Hi! I'm Ej.
