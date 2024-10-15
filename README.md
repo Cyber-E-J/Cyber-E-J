@@ -4,7 +4,9 @@
 
 Hi! I'm Ej.
 
-I am a senior undergraduate student at Zhejiang University majoring in Computer Science, also a member of the [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/).
+I am now a first year PhD Student @ LTL, University of Cambridge 
+
+I graduated from Zhejiang University majoring in Computer Science, also a member of the [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/).
 
 
 I'm interested is in computational linguistics and particularly cross-lingual topics. I'm also open to explore LLM, LLM & HCI topics, and computational social science. As a pseudo-polyglot, my off time is often spent on learning languages.
