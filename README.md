@@ -4,9 +4,7 @@
 
 Hi! I'm Ej.
 
-I am now a first year PhD Student at LTL, University of Cambridge 
-
-I did my bachelor in Zhejiang University majoring Computer Science, also a member of the [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/).
+I am now a first year PhD Student at LTL, University of Cambridge.
 
 I'm interested is in computational linguistics and particularly cross-lingual topics. I'm also open to explore LLM & HCI topics, and computational social science. I am a wanna-be polyglot.
 
